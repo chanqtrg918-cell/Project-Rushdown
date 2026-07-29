@@ -1,1 +1,6 @@
-{"name":"Project Rushdown (Space Shooter)","description":"A 2D space shooter game where players control a ship to blast falling asteroids.","requestFramePermissions":[],"majorCapabilities":["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]}
+{
+  "name": "Project Rushdown",
+  "description": "Project Rushdown - Arcade Bullet Hell featuring 10 campaign chapters, custom hangar decryption console, save slots, and intense boss battles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
